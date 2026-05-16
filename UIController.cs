@@ -1,4 +1,4 @@
-using System.Collections;
+// UI layer — decoupled from game logic via UnityEventsusing System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
