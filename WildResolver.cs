@@ -1,3 +1,4 @@
+// Bonus feature — Wild symbol substitution resolver
 /// <summary>
 /// WildResolver — Handles WILD symbol substitution logic.
 ///
