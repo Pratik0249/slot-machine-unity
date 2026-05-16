@@ -1,4 +1,4 @@
-using System.Collections;
+// Reel Module — smooth scroll animation with easingusing System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
