@@ -1,4 +1,4 @@
-using System.Collections;
+// Core orchestrator — manages spin flow and win evaluationusing System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
