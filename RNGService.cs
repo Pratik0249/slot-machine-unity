@@ -1,3 +1,4 @@
+// RNG Module — weighted probability slot outcome generator
 using UnityEngine;
 
 /// <summary>
